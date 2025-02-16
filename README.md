@@ -80,7 +80,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 </p>
 
-## 🎉 Fun Stuff
+## 🎭 Lighten Up
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
