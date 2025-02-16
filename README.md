@@ -44,14 +44,15 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mk-1306&theme=react-dark&area=true&color=58a6ff&point=ffffff&hide_border=true)
 
+## 🐍 Contribution Snake Grid
 <p align="center">
-  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+   <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
 </p>
 
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://novatorem-username.vercel.app/api/spotify" alt="Now Playing on Spotify">
+  <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
 </p>
 
 **🎶 Favorite Tracks:**
