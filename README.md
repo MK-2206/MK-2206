@@ -43,7 +43,7 @@
 ## 🎶 Favorite Tracks 🎵  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRn393nAYpqXlYI/giphy.gif" width="500" alt="Music Vibes">
+  <img src="https://media.giphy.com/media/5xtDarIN81W3JlU3xZy/giphy.gif" width="500" alt="Music Vibes">
 </p>
 
 ### 🎧 My Top Songs:
@@ -55,6 +55,7 @@
 🎵 **Wonderwall** – Oasis  
 
 > 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
+
 
 ## 🐍 Contribution Snake Grid
 <p align="center">
