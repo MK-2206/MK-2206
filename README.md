@@ -43,16 +43,16 @@
 ## 🎶 Favorite Tracks 🎵  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="500" alt="Music GIF">
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="500" alt="Music Vibes">
 </p>
 
-### 🎧 My Top Songs:  
-🎵 **Ojitos Lindos** - Bad Bunny,Bomba Estereo 
-🎵 **I had Some Help(Feat.Morgan Wallen)** - Post Malone  
-🎵 **Save Your Tears** - The Weeknd  
-🎵 **Fix You** - Coldplay  
-🎵 **Places to Be** - Fred Again..  
-🎵 **Wonderwall** - Oasis  
+### 🎧 My Top Songs:
+🎵 **Ojitos Lindos** – Bad Bunny, Bomba Estéreo  
+🎵 **I Had Some Help (Feat. Morgan Wallen)** – Post Malone  
+🎵 **Save Your Tears** – The Weeknd  
+🎵 **Fix You** – Coldplay  
+🎵 **Places to Be** – Fred Again..  
+🎵 **Wonderwall** – Oasis  
 
 > 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
 
