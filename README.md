@@ -43,7 +43,7 @@
 ## 🎶 Favorite Tracks 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" alt="Dog Listening to Music">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Dog Listening to Music">
 </p>
 
 ### 🎧 My Top Songs:
@@ -59,16 +59,19 @@
 ## 🚀 Fun Corner: Play T-Rex Runner! 🦖  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TLzBZZqRdEjL3I3bz1/giphy.gif" width="500" alt="T-Rex Running">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300" alt="Excited Gaming GIF">
 </p>
 
-> **⚡ Ready for a Challenge?** Click below to play the legendary Chrome Dino game!
+> 🎮 **Think you're fast enough?** Click below to play the legendary Chrome Dino game!
 
 <p align="center">
   <a href="https://chromedino.com" target="_blank">
-    <img src="https://img.shields.io/badge/⚡-PLAY%20NOW%20→%20T--REX%20RUNNER-blueviolet?style=for-the-badge&logo=googlechrome" alt="Play Now">
+    <img src="https://img.shields.io/badge/🎮-PLAY%20NOW%20→%20T--REX%20RUNNER-green?style=for-the-badge&logo=googlechrome" alt="Play Now">
   </a>
 </p>
+
+
+
 
 
 ## 💬 Quotes
