@@ -40,7 +40,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
-## 🎶 Favorite Tracks 🎵  
+## 🎶 Favorite Tracks 
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" alt="Dog Listening to Music">
@@ -56,11 +56,10 @@
 
 > 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
 
+## 🎮 Fun Corner: Play T-Rex Runner! 🦖  
 
-## 🐍 Contribution Snake Grid
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
-</p>
+Click below to play the legendary Chrome Dino game!  
+[![Play T-Rex Game](https://img.shields.io/badge/PLAY%20NOW-T--REX%20RUNNER-blue?style=for-the-badge)](https://chromedino.com)
 
 ## 💬 Quotes
 
