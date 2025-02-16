@@ -40,19 +40,16 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
-## ⚡ Recent GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mk-1306&theme=react-dark&area=true&color=58a6ff&point=ffffff&hide_border=true)
-
 ## 🐍 Contribution Snake Grid
+
 <p align="center">
-  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+  <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
+  <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
 </p>
 
 **🎶 Favorite Tracks:**
@@ -60,20 +57,10 @@
 - 🎵 Places to Be - Fred Again..
 - 🎵 Wonderwall - Oasis
 
-## 📜 Quotes
-
-<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-  <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
-</p>
-
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
-</p>
+## 💬 Quotes
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5542dd2bc71b890a47c925a76eaddb8fd8b4d36d6e594b40e8558ab5f24f85d8/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6d65726b6f26616e696d6174696f6e3d67726f775f6f75745f696e266c61796f75743d636875726368696c6c26666f6e743d64656661756c74">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
 </p>
 
 ## 🎉 Fun Stuff
