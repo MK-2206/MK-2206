@@ -44,9 +44,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mk-1306&theme=react-dark&area=true&color=58a6ff&point=ffffff&hide_border=true)
 
-## 🐍 Contribution Snake Grid
-
-![Contribution Snake](https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+</p>
 
 ## 🎵 Now Playing on Spotify
 
