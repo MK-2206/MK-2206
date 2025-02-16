@@ -40,10 +40,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
-## 🎵 Now Playing
+## 🎵 Now Playing 🎶
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q8H3ITQcFjvUCA8zGs/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500">
 </p>
 
 **🎶 Favorite Tracks:**
