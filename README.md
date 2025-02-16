@@ -40,30 +40,28 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
-## 🐍 Contribution Snake Grid
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" width="100%">
-</p>
-
-
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
   <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
 </p>
 
+**🎶 Favorite Tracks:**
+- 🎵 **Blinding Lights** - The Weeknd
+- 🎵 **Save Your Tears** - The Weeknd
+- 🎵 **Fix You** - Coldplay
+- 🎵 **Places to Be** - Fred Again..
+- 🎵 **Wonderwall** - Oasis
 
-### 🎶 Favorite Tracks:
-- 🎵 **Save Your Tears** - The Weeknd  
-- 🎵 **Fix You** - Coldplay  
-- 🎵 **Places to Be** - Fred Again..  
-- 🎵 **Wonderwall** - Oasis  
+## 🐍 Contribution Snake Grid
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+</p>
 
 ## 💬 Quotes
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 </p>
 
 ## 🎉 Fun Stuff
