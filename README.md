@@ -59,7 +59,7 @@
 ## 🚀 Fun Corner: Play T-Rex Runner! 🦖  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300" alt="Excited Gaming GIF">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="450" alt="T-Rex Running">
 </p>
 
 > 🎮 **Think you're fast enough?** Click below to play the legendary Chrome Dino game!
