@@ -56,10 +56,20 @@
 
 > 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
 
-## 🎮 Fun Corner: Play T-Rex Runner! 🦖  
+## 🚀 Fun Corner: Play T-Rex Runner! 🦖  
 
-Click below to play the legendary Chrome Dino game!  
-[![Play T-Rex Game](https://img.shields.io/badge/PLAY%20NOW-T--REX%20RUNNER-blue?style=for-the-badge)](https://chromedino.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/TLzBZZqRdEjL3I3bz1/giphy.gif" width="500" alt="T-Rex Running">
+</p>
+
+> **⚡ Ready for a Challenge?** Click below to play the legendary Chrome Dino game!
+
+<p align="center">
+  <a href="https://chromedino.com" target="_blank">
+    <img src="https://img.shields.io/badge/⚡-PLAY%20NOW%20→%20T--REX%20RUNNER-blueviolet?style=for-the-badge&logo=googlechrome" alt="Play Now">
+  </a>
+</p>
+
 
 ## 💬 Quotes
 
