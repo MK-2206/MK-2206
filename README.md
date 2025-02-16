@@ -9,10 +9,36 @@
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sass,flask,react,redux,angular,git,django,php,mysql,postgres,net,unity,androidstudio,vscode,graphql,docker,aws" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,sass,flask,react,nextjs,redux,angular,git,django,php,mysql,postgres,nodejs,express,dotnet,unity,androidstudio,vscode,graphql,docker,kubernetes,aws,gcp" alt="Tech Stack Icons">
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 🚀 Featured Projects  
+
+### 📌 [AI-Powered Code Review System](https://github.com/mk-1306/ai-code-review)
+- 🛠 Built with: Python, OpenAI API, FastAPI, React, TypeScript
+- 🤖 Automated code analysis using GPT-powered insights, reducing review time by 60%.
+
+### 📌 [Emotion-Responsive Music Recommendation](https://github.com/mk-1306/music-recommendation)
+- 🛠 Built with: Spigot API, Java, Maven, TravisCI, Git
+- 🚀 Developed a real-time anomaly detection system, processing 5 million samples with ARIMA and EMA models.
+
+### 📌 [Scalable Cloud Storage Solution](https://github.com/mk-1306/cloud-storage)
+- 🛠 Built with: AWS S3, Lambda, DynamoDB, Terraform, Python
+- ☁️ Designed an optimized cloud storage system with 99.99% uptime guarantee.
+
+---
+
+## 🔗 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-kharke-3b7565183/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk-1306&theme=radical" alt="GitHub Streak">
@@ -20,33 +46,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-1306&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 🚀 Featured Projects
-
-### 📌 [Adversarial Search Using AI](https://github.com/mk-1306/adversarial-search)
-- 🛠 Built with: Python, Flask, React, PostgreSQL, Docker
-- 📄 Authored an article on Min-Max algorithm, achieving 95% accuracy in AI-driven Tic-Tac-Toe systems.
-
-### 📌 [Emotion-Responsive Music Recommendation](https://github.com/mk-1306/music-recommendation)
-- 🛠 Built with: Spigot API, Java, Maven, TravisCI, Git
-- 🚀 Developed a real-time anomaly detection system, processing 5 million samples with ARIMA and EMA models.
-
-### 📌 [Care Connect Application](https://github.com/mk-1306/care-connect)
-- 🛠 Built with: DronaHQ, NoCode1
-- 🎯 Finalist in the DronaHQ No Code Hackathon for improving doctor-patient communication.
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-kharke-3b7565183/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
-
-## 🎶 Favorite Tracks 
+## 🚀 GitHub Activity  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Dog Listening to Music">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk-1306&theme=radical" alt="GitHub Contribution Activity">
 </p>
 
-### 🎧 My Top Songs:
+---
+
+## 🎶 Favorite Tracks  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" alt="Dog Listening to Music">
+</p>
+
+### 🎧 My Top Songs:  
 🎵 **Ojitos Lindos** – Bad Bunny, Bomba Estéreo  
 🎵 **I Had Some Help (Feat. Morgan Wallen)** – Post Malone  
 🎵 **Save Your Tears** – The Weeknd  
@@ -54,7 +68,9 @@
 🎵 **Places to Be** – Fred Again..  
 🎵 **Wonderwall** – Oasis  
 
-> 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
+> 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*  
+
+---
 
 ## 🚀 Fun Corner: Play T-Rex Runner! 🦖  
 
@@ -70,17 +86,17 @@
   </a>
 </p>
 
+---
 
-
-
-
-## 💬 Quotes
+## 💬 Quotes  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 </p>
 
-## 🎭 Lighten Up
+---
+
+## 🎭 Lighten Up  
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
