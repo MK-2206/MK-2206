@@ -49,7 +49,7 @@
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://novatorem-mk-1306.vercel.app/api/spotify?background_color=black&bar_color=green&title_color=white&border_radius=10px" alt="Spotify Playing" width="450">
+  <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
 </p>
 
 ### 🎶 Favorite Tracks:
