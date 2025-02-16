@@ -43,7 +43,7 @@
 ## 🎶 Favorite Tracks 🎵  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarIN81W3JlU3xZy/giphy.gif" width="500" alt="Music Vibes">
+  <img src="https://media.giphy.com/media/l2Sqc3POpzkj3TkgU/giphy.gif" width="500" alt="Music Vibes">
 </p>
 
 ### 🎧 My Top Songs:
