@@ -43,7 +43,7 @@
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://imgur.com/YOUR_SPOTIFY_IMAGE_LINK_HERE.png" alt="Spotify Aesthetic">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="100">
 </p>
 
 **🎶 Favorite Tracks:**
@@ -52,6 +52,9 @@
 - 🎵 **Fix You** - Coldplay
 - 🎵 **Places to Be** - Fred Again..
 - 🎵 **Wonderwall** - Oasis
+
+> *🎧 Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lby)*  
+
 
 ## 🐍 Contribution Snake Grid
 <p align="center">
