@@ -12,14 +12,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sass,flask,react,redux,angular,git,django,php,mysql,postgres,net,unity,androidstudio,vscode,graphql,docker,aws" alt="Tech Stack Icons">
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk-1306&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=mk-1306&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-1306&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 ## 🚀 Featured Projects
 
 ### 📌 [Adversarial Search Using AI](https://github.com/mk-1306/adversarial-search)
@@ -40,18 +32,29 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk-1306&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=mk-1306&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-1306&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
+  <!-- Spotify Live Now-Playing Widget -->
   <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
 </p>
 
-**🎶 Favorite Tracks:**
-- 🎵 **Blinding Lights** - The Weeknd
-- 🎵 **Save Your Tears** - The Weeknd
-- 🎵 **Fix You** - Coldplay
-- 🎵 **Places to Be** - Fred Again..
-- 🎵 **Wonderwall** - Oasis
+### 🎶 **Favorite Tracks**
+- 🎵 **Blinding Lights** - The Weeknd  
+- 🎵 **Save Your Tears** - The Weeknd  
+- 🎵 **Fix You** - Coldplay  
+- 🎵 **Places to Be** - Fred Again..  
+- 🎵 **Wonderwall** - Oasis  
+
+> 🎧 *Check out my Spotify profile for more music!*
 
 ## 🐍 Contribution Snake Grid
 <p align="center">
