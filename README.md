@@ -46,7 +46,7 @@
 
 ## 🐍 Contribution Snake Grid
 <p align="center">
-  <img src="https://github.com/mk-1306/mk-1306/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
 </p>
 
 ## 🎵 Now Playing on Spotify
@@ -63,7 +63,7 @@
 ## 📜 Quotes
 
 <p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&quote=A%20clever%20person%20solves%20a%20problem.%20A%20wise%20person%20avoids%20it.&author=Albert%20Einstein" alt="Quote">
+  <img src="https://github-readme-quotes.vercel.app/api?type=vertical&theme=radical&quote=A%20clever%20person%20solves%20a%20problem.%20A%20wise%20person%20avoids%20it.&author=Albert%20Einstein" alt="Quote">
 </p>
 
 ## 🎉 Fun Stuff
