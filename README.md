@@ -46,14 +46,15 @@
   <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
+
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
   <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
 </p>
 
+
 ### 🎶 Favorite Tracks:
-- 🎵 **Blinding Lights** - The Weeknd  
 - 🎵 **Save Your Tears** - The Weeknd  
 - 🎵 **Fix You** - Coldplay  
 - 🎵 **Places to Be** - Fred Again..  
