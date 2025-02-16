@@ -40,16 +40,19 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
-## Favorite Tracks🎶
+## 🎶 Favorite Tracks 🎵  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="500" alt="Music GIF">
 </p>
 
-- 🎵 **Save Your Tears** - The Weeknd
-- 🎵 **Fix You** - Coldplay
-- 🎵 **Places to Be** - Fred Again..
-- 🎵 **Wonderwall** - Oasis
+### 🎧 My Top Songs:  
+🎵 **Ojitos Lindos** - Bad Bunny,Bomba Estereo 
+🎵 **I had Some Help(Feat.Morgan Wallen)** - Post Malone  
+🎵 **Save Your Tears** - The Weeknd  
+🎵 **Fix You** - Coldplay  
+🎵 **Places to Be** - Fred Again..  
+🎵 **Wonderwall** - Oasis  
 
 > 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
 
