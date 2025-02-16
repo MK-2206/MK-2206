@@ -6,19 +6,11 @@
   </a>
 </h1>
 
-## 🛠 Tech Stack
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sass,flask,react,redux,angular,git,django,php,mysql,postgres,net,unity,androidstudio,vscode,graphql,docker,aws" alt="Tech Stack Icons">
+</p>
 
 ## 📊 GitHub Stats
 
@@ -52,11 +44,28 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mk-1306&theme=react-dark&area=true&color=58a6ff&point=ffffff&hide_border=true)
 
+## 🐍 Contribution Snake Grid
+
+<p align="center">
+  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+</p>
+
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify">
+</p>
+
+**🎶 Favorite Tracks:**
+- 🎵 Fix You - Coldplay
+- 🎵 Places to Be - Fred Again..
+- 🎵 Wonderwall - Oasis
+
 ## 🎉 Fun Stuff
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-![Visitor Count](https://komarev.com/ghpvc/?username=mk-1306&color=blue)
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</p>
 
 ---
 
