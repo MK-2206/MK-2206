@@ -60,6 +60,12 @@
 - 🎵 Places to Be - Fred Again..
 - 🎵 Wonderwall - Oasis
 
+## 📜 Quotes
+
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&quote=A%20clever%20person%20solves%20a%20problem.%20A%20wise%20person%20avoids%20it.&author=Albert%20Einstein" alt="Quote">
+</p>
+
 ## 🎉 Fun Stuff
 
 <p align="center">
