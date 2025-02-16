@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansi+Kharke....;Passionate+Software+Engineer!;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansi+Kharke....;Passionate+Software+Engineer!;Nice+to+meet+you!&center=true&width=800&size=30">
   </a>
 </h1>
 
@@ -50,7 +50,7 @@
 
 ## ⚡ Recent GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mk-1306&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mk-1306&theme=react-dark&area=true&color=58a6ff&point=ffffff&hide_border=true)
 
 ## 🎉 Fun Stuff
 
