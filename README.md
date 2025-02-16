@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mansi Kharke!
+# <p align="center" style="font-size: 30px; color: #64B5F6;">Hi, I'm Mansi Kharke!</p>
 
 Welcome to my GitHub profile! I'm an aspiring **Software Developer** and **Data Analyst**, passionate about **Cloud Computing, Networks, and Problem-Solving**. I love working on open-source projects, experimenting with new technologies, and contributing to the developer community. 🚀
 
