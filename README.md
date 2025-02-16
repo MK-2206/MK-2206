@@ -46,9 +46,7 @@
 
 ## 🐍 Contribution Snake Grid
 
-<p align="center">
-  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
-</p>
+![Contribution Snake](https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎵 Now Playing on Spotify
 
