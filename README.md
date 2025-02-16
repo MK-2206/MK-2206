@@ -49,13 +49,15 @@
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
+  <img src="https://novatorem-mk-1306.vercel.app/api/spotify?background_color=black&bar_color=green&title_color=white&border_radius=10px" alt="Spotify Playing" width="450">
 </p>
 
-**🎶 Favorite Tracks:**
-- 🎵 Fix You - Coldplay
-- 🎵 Places to Be - Fred Again..
-- 🎵 Wonderwall - Oasis
+### 🎶 Favorite Tracks:
+- 🎵 **Blinding Lights** - The Weeknd  
+- 🎵 **Save Your Tears** - The Weeknd  
+- 🎵 **Fix You** - Coldplay  
+- 🎵 **Places to Be** - Fred Again..  
+- 🎵 **Wonderwall** - Oasis  
 
 ## 💬 Quotes
 
