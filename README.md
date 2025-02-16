@@ -1,13 +1,10 @@
-# <p align="center" style="font-size: 30px; color: #64B5F6;">Hi, I'm Mansi Kharke!</p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mk-1306.mk-1306">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansi Kharke ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansi+Kharke....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-Welcome to my GitHub profile! I'm an aspiring **Software Developer** and **Data Analyst**, passionate about **Cloud Computing, Networks, and Problem-Solving**. I love working on open-source projects, experimenting with new technologies, and contributing to the developer community. 🚀
 
 ## 🛠 Tech Stack
 
