@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansi+Kharke....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansi+Kharke....;Passionate+Software+Engineer!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -22,8 +22,11 @@
 
 ## 📊 GitHub Stats
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk-1306&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk-1306&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk-1306&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=mk-1306&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-1306&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ## 🚀 Featured Projects
 
