@@ -42,36 +42,39 @@
 
 ---
 
-## 🎶 Now Playing 🎵  
+## 🎶 Now Playing 🎧  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/8Iv5lqKwKsZUc/giphy.gif" width="500" alt="Music GIF">
 </p>
 
-**🎶 Favorite Tracks:**
-- 🎵 **Blinding Lights** - The Weeknd
-- 🎵 **Save Your Tears** - The Weeknd
-- 🎵 **Fix You** - Coldplay
-- 🎵 **Places to Be** - Fred Again..
-- 🎵 **Wonderwall** - Oasis
-
-> 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
+🎵 **Currently Listening to:**  
+> *[Check out my Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
 
 ---
 
-## 🐍 Contribution Snake Grid
+## 🎼 Favorite Tracks 🎶  
+<p align="center">
+  🎵 **Blinding Lights** - The Weeknd  
+  🎵 **Save Your Tears** - The Weeknd  
+  🎵 **Fix You** - Coldplay  
+  🎵 **Places to Be** - Fred Again..  
+  🎵 **Wonderwall** - Oasis  
+</p>
+
+---
+
+## 🐍 Contribution Snake Grid  
 <p align="center">
   <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
 </p>
 
-## 💬 Quotes
-
+## 💬 Quotes  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 </p>
 
-## 🎉 Fun Stuff
-
+## 🎉 Fun Stuff  
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 </p>
