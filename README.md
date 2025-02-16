@@ -40,19 +40,24 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
-## 🎵 Now Playing 
+---
+
+## 🎶 Now Playing 🎵  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="500">
 </p>
 
 **🎶 Favorite Tracks:**
+- 🎵 **Blinding Lights** - The Weeknd
 - 🎵 **Save Your Tears** - The Weeknd
 - 🎵 **Fix You** - Coldplay
 - 🎵 **Places to Be** - Fred Again..
 - 🎵 **Wonderwall** - Oasis
 
 > 🎧 *Check out my [Spotify Profile](https://open.spotify.com/user/31auwuj4qbc4doqs6e2kboq4lbym) for more!*
+
+---
 
 ## 🐍 Contribution Snake Grid
 <p align="center">
