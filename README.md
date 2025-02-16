@@ -47,13 +47,13 @@
 ## 🐍 Contribution Snake Grid
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mk-1306/mk-1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
+  <img src="https://github.com/mk-1306/mk-1306/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Grid">
 </p>
 
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify">
+  <img src="https://novatorem-username.vercel.app/api/spotify" alt="Now Playing on Spotify">
 </p>
 
 **🎶 Favorite Tracks:**
