@@ -43,18 +43,22 @@
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <!-- Spotify Live Now-Playing Widget -->
-  <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify">
+  <a href="https://open.spotify.com/user/your_spotify_id" target="_blank">
+    <img src="https://novatorem-mk-1306.vercel.app/api/spotify" alt="Now Playing on Spotify" width="450">
+  </a>
 </p>
 
 ### 🎶 **Favorite Tracks**
+> 🎧 *Some of my all-time favorites!*
 - 🎵 **Blinding Lights** - The Weeknd  
 - 🎵 **Save Your Tears** - The Weeknd  
 - 🎵 **Fix You** - Coldplay  
 - 🎵 **Places to Be** - Fred Again..  
 - 🎵 **Wonderwall** - Oasis  
 
-> 🎧 *Check out my Spotify profile for more music!*
+---
+🟢 *Click the widget to see my full Spotify profile!*  
+
 
 ## 🐍 Contribution Snake Grid
 <p align="center">
