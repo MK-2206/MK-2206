@@ -14,6 +14,24 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-2206&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=MK-2206&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-2206&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 🚀 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MK-2206&theme=radical" alt="GitHub Contribution Activity">
+</p>
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 📌 [AI-Powered Code Review System](https://github.com/MK-2206/ai-code-review)
@@ -35,24 +53,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-kharke-3b7565183/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/MK-2206)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-2206&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=MK-2206&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-2206&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-## 🚀 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MK-2206&theme=radical" alt="GitHub Contribution Activity">
-</p>
 
 ---
 
