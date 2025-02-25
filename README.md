@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mk-1306.mk-1306">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MK-2206.MK-2206">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -16,15 +16,15 @@
 
 ## 🚀 Featured Projects  
 
-### 📌 [AI-Powered Code Review System](https://github.com/mk-1306/ai-code-review)
+### 📌 [AI-Powered Code Review System](https://github.com/MK-2206/ai-code-review)
 - 🛠 Built with: Python, OpenAI API, FastAPI, React, TypeScript
 - 🤖 Automated code analysis using GPT-powered insights, reducing review time by 60%.
 
-### 📌 [Emotion-Responsive Music Recommendation](https://github.com/mk-1306/music-recommendation)
+### 📌 [Emotion-Responsive Music Recommendation](https://github.com/MK-2206/music-recommendation)
 - 🛠 Built with: Spigot API, Java, Maven, TravisCI, Git
 - 🚀 Developed a real-time anomaly detection system, processing 5 million samples with ARIMA and EMA models.
 
-### 📌 [Scalable Cloud Storage Solution](https://github.com/mk-1306/cloud-storage)
+### 📌 [Scalable Cloud Storage Solution](https://github.com/MK-2206/cloud-storage)
 - 🛠 Built with: AWS S3, Lambda, DynamoDB, Terraform, Python
 - ☁️ Designed an optimized cloud storage system with 99.99% uptime guarantee.
 
@@ -33,7 +33,7 @@
 ## 🔗 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-kharke-3b7565183/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mk-1306)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/MK-2206)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://mansikharke.netlify.app/)
 
 ---
@@ -41,15 +41,17 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk-1306&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=mk-1306&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-1306&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-2206&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=MK-2206&show_icons=true&theme=radical" alt="Mansi's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-2206&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+---
 
 ## 🚀 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk-1306&theme=radical" alt="GitHub Contribution Activity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MK-2206&theme=radical" alt="GitHub Contribution Activity">
 </p>
 
 ---
